@@ -25,7 +25,7 @@ function initMap(lat, log) {
     //34.66721548545568, 135.4318284155447
   });
   const infowindow = new google.maps.InfoWindow({
-    content: "yoshi's house",
+    content: "my position",
   });
 
   marker.addListener("click", () => {
