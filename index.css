@@ -20,6 +20,10 @@ body {
   height: 60vh;
 }
 
+nav {
+  display: grid;
+  justify-items: center;
+}
 h1 {
   font-family: "Press Start 2P", cursive;
   text-align: center;
